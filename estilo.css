@@ -38,3 +38,24 @@
     height: 15%;
     width: 15%;
 }
+
+.Preguntas {
+    text-align: center;
+    
+}   
+
+.Respuesta {
+    text-align: center;
+    color: rgb(48, 47, 47) ;
+    
+}
+
+.Ubicados {
+    text-align: center;
+}
+
+.Mapa {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
