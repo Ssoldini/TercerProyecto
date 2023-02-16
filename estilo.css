@@ -1,0 +1,40 @@
+.titulo {
+    text-align: center;
+    
+}
+
+.imagen2 {
+    width: 350px;  
+    height: 370px;
+}
+
+.imagen1 {
+    width: 350px;
+    height: 350px;
+}
+
+.imagen3 {
+    width: 230px;
+    height: 350px;
+}
+
+.trofeo
+{
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+}
+
+.Subtitulo {
+    font-size: x-large;
+
+}
+
+.parrafo {
+    font-size: small;
+
+}
+.redes {
+    height: 15%;
+    width: 15%;
+}
