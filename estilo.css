@@ -59,3 +59,24 @@
     align-items: center;
     justify-content:center;
 }
+
+.Osito {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+
+}
+
+.Container {
+        display: flex;
+        align-items: center;
+        justify-content:  center;
+        margin: auto;
+}
+
+.ProductosMasVendidos {
+    text-align: center;
+}
